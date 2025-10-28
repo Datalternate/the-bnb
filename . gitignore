@@ -1,1 +1,18 @@
+# 🔐 Sensitive credentials
+credentials.json
+
+# 🧠 Python cache files
+__pycache__/
+*.pyc
+
+# 📦 Virtual environment (if used)
+venv/
+.env
+
+# 🗂️ Streamlit config cache
+.streamlit/
+
+# 💾 OS-specific files
+.DS_Store
+Thumbs.db
 
